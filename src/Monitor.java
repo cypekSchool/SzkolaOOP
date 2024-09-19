@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface Monitor {
+public interface Monitor {
+    public abstract void doYourDuty();
 }
